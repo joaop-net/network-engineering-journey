@@ -6,7 +6,7 @@
 
 **Sargento do Exército Brasileiro → Infraestrutura de Redes & Segurança | DevSecOps (em construção) | Brasil**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-37156a361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaop-net)
 [![GitHub](https://img.shields.io/badge/GitHub-joaop-net-181717?style=flat-square&logo=github)](https://github.com/joaop-net)
 
 ---
@@ -123,5 +123,5 @@ Antes de iniciar este roadmap estruturado, explorei vários tópicos de DevOps p
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-37156a361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaop-net)
 [![GitHub](https://img.shields.io/badge/GitHub-joaop-net-181717?style=flat-square&logo=github)](https://github.com/joaop-net)
