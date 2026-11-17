@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Passei 8 anos no Exército Brasileiro. Ingressei em 2018, participei da Intervenção Federal no Rio de Janeiro e me formei na Escola de Sargentos das Armas (ESA) em 2022. Hoje sou 3º Sargento de carreira e apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte.
+Estou há 8 anos no Exército Brasileiro, na ativa. Ingressei em 2018, participei da Intervenção Federal no Rio de Janeiro e me formei na Escola de Sargentos das Armas (ESA) em 2022. Hoje sou 3º Sargento de carreira e apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte.
 
 Em paralelo, curso Redes de Computadores na Estácio (EAD). Fiz estágios técnicos em Linux e Redes no Centro de Telemática de Área (5º CTA, Exército Brasileiro) e estou atualmente matriculado nos cursos de Fundamentos de Redes, Cabeamento de Dados e Logística de TI no Centro de Telemática de Área (1º CTA). Em 2025 tirei minha primeira certificação (Oracle OCI Foundations).
 
