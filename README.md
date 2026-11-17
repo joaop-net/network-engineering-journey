@@ -7,7 +7,7 @@
 **Brazilian Army Sergeant → Network Infrastructure & Security | DevSecOps (in progress) | Brazil**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-37156a361)
-[![GitHub](https://img.shields.io/badge/GitHub-joaopdevops-181717?style=flat-square&logo=github)](https://github.com/joaopdevops)
+[![GitHub](https://img.shields.io/badge/GitHub-joaop-net-181717?style=flat-square&logo=github)](https://github.com/joaop-net)
 
 ---
 
@@ -113,15 +113,15 @@ Before starting this structured roadmap, I explored several DevOps topics on my 
 
 | Repository | Description |
 |---|---|
-| [learning-terraform](https://github.com/joaopdevops/learning-terraform) | First experiments with Terraform and AWS S3 provisioning |
-| [CI-CD](https://github.com/joaopdevops/CI-CD) | Early CI/CD pipeline experiment with Terraform, Docker, and GitHub Actions |
-| [github-actions-simples](https://github.com/joaopdevops/github-actions-simples) | First GitHub Actions CI pipeline with Python and pytest |
-| [first-image-docker](https://github.com/joaopdevops/first-image-docker) | My first Docker image — Nginx serving a static HTML page |
-| [github-access-audit](https://github.com/joaopdevops/github-access-audit) | Shell script for GitHub access auditing, built while studying Bash |
+| [learning-terraform](https://github.com/joaop-net/learning-terraform) | First experiments with Terraform and AWS S3 provisioning |
+| [CI-CD](https://github.com/joaop-net/CI-CD) | Early CI/CD pipeline experiment with Terraform, Docker, and GitHub Actions |
+| [github-actions-simples](https://github.com/joaop-net/github-actions-simples) | First GitHub Actions CI pipeline with Python and pytest |
+| [first-image-docker](https://github.com/joaop-net/first-image-docker) | My first Docker image — Nginx serving a static HTML page |
+| [github-access-audit](https://github.com/joaop-net/github-access-audit) | Shell script for GitHub access auditing, built while studying Bash |
 
 ---
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-37156a361)
-[![GitHub](https://img.shields.io/badge/GitHub-joaopdevops-181717?style=flat-square&logo=github)](https://github.com/joaopdevops)
+[![GitHub](https://img.shields.io/badge/GitHub-joaop-net-181717?style=flat-square&logo=github)](https://github.com/joaop-net)

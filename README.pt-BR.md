@@ -7,7 +7,7 @@
 **Sargento do Exército Brasileiro → Infraestrutura de Redes & Segurança | DevSecOps (em construção) | Brasil**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-37156a361)
-[![GitHub](https://img.shields.io/badge/GitHub-joaopdevops-181717?style=flat-square&logo=github)](https://github.com/joaopdevops)
+[![GitHub](https://img.shields.io/badge/GitHub-joaop-net-181717?style=flat-square&logo=github)](https://github.com/joaop-net)
 
 ---
 
@@ -113,15 +113,15 @@ Antes de iniciar este roadmap estruturado, explorei vários tópicos de DevOps p
 
 | Repositório | Descrição |
 |---|---|
-| [learning-terraform](https://github.com/joaopdevops/learning-terraform) | Primeiros experimentos com Terraform e provisionamento de S3 na AWS |
-| [CI-CD](https://github.com/joaopdevops/CI-CD) | Experimento inicial de pipeline CI/CD com Terraform, Docker e GitHub Actions |
-| [github-actions-simples](https://github.com/joaopdevops/github-actions-simples) | Primeiro pipeline CI com GitHub Actions, Python e pytest |
-| [first-image-docker](https://github.com/joaopdevops/first-image-docker) | Minha primeira imagem Docker — Nginx servindo uma página HTML estática |
-| [github-access-audit](https://github.com/joaopdevops/github-access-audit) | Script Shell de auditoria de acessos no GitHub, criado durante os estudos de Bash |
+| [learning-terraform](https://github.com/joaop-net/learning-terraform) | Primeiros experimentos com Terraform e provisionamento de S3 na AWS |
+| [CI-CD](https://github.com/joaop-net/CI-CD) | Experimento inicial de pipeline CI/CD com Terraform, Docker e GitHub Actions |
+| [github-actions-simples](https://github.com/joaop-net/github-actions-simples) | Primeiro pipeline CI com GitHub Actions, Python e pytest |
+| [first-image-docker](https://github.com/joaop-net/first-image-docker) | Minha primeira imagem Docker — Nginx servindo uma página HTML estática |
+| [github-access-audit](https://github.com/joaop-net/github-access-audit) | Script Shell de auditoria de acessos no GitHub, criado durante os estudos de Bash |
 
 ---
 
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-37156a361)
-[![GitHub](https://img.shields.io/badge/GitHub-joaopdevops-181717?style=flat-square&logo=github)](https://github.com/joaopdevops)
+[![GitHub](https://img.shields.io/badge/GitHub-joaop-net-181717?style=flat-square&logo=github)](https://github.com/joaop-net)
