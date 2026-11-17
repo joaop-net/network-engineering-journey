@@ -17,7 +17,7 @@ I spent 8 years in the Brazilian Army. I enlisted in 2018, took part in the Fede
 
 In parallel, I'm completing a Computer Networks degree at Estácio University. I did technical internships in Linux and Networking at the Centro de Telemática de Área (5º CTA, Brazilian Army), and I'm currently enrolled in Network Fundamentals, Data Cabling, and IT Logistics courses at the Centro de Telemática de Área (1º CTA). In 2025 I earned my first certification (Oracle OCI Foundations).
 
-My focus is **network infrastructure**: how networks are addressed, switched, routed, secured, and kept running. Switches, routers, cabling, addressing plans, connectivity troubleshooting — the physical and logical layers that everything else sits on. Automation comes later, and only on top of that base: you can't automate or secure infrastructure you don't understand. I'm currently preparing for the **CCNA 200-301** (exam window ~March 2027): baseline diagnostic done on Nov 7, 2026, and a week-by-week plan in place — fundamentals first, then switching, routing and services.
+My focus is **network infrastructure**: how networks are addressed, switched, routed, secured, and kept running. Switches, routers, cabling, addressing plans, connectivity troubleshooting — the physical and logical layers that everything else sits on. This is the career I'm building, not a step toward something else: you can't operate or secure infrastructure you don't understand. I'm currently preparing for the **CCNA 200-301 v2.0** (exam window Apr–May 2027): baseline diagnostic done on Nov 7, 2026, and a week-by-week plan in place — fundamentals first, then switching, routing and services.
 
 Every phase here ends the same way: something built, documented, and explained — because in infrastructure, an undocumented fix is a fix nobody can repeat.
 
@@ -25,7 +25,7 @@ Every phase here ends the same way: something built, documented, and explained �
 
 ## Roadmap Progress
 
-The route runs **depth-first through network infrastructure and security**, then infrastructure operations, then automation on top.
+The route runs **depth-first through network infrastructure and security**, then infrastructure operations, with network automation on top.
 
 | Phase | Topic | Focus | Status |
 |:-----:|-------|-------|:------:|
@@ -34,15 +34,14 @@ The route runs **depth-first through network infrastructure and security**, then
 | 03 | Enterprise Networking & Security | CCNA 3 (ENSA) — ACLs, NAT, WAN, VPN, network security, QoS, monitoring, automation intro | ⏳ Planned |
 | 04 | Linux + Network Security | Server administration, hardening, firewalling, SSH, logging | ⏳ Planned |
 | 05 | Infrastructure & Operations | Virtualization, monitoring and alerting, backup & restore, incident investigation | ⏳ Planned |
-| 06 | Cloud, Containers & IaC | AWS, Docker, Kubernetes, Terraform | ⏳ Planned |
-| 07 | CI/CD + DevSecOps | Pipelines, automated security checks, deployment | ⏳ Planned |
+| 06 | Advanced Routing & Automation | OSPF in depth, IPv6, BGP basics, network automation with Python | ⏳ Planned |
 
 ---
 
 ## Repository Structure
 
 ```
-devops-roadmap/
+network-engineering-journey/
 ├── check-ins/                            # Daily study logs (bilingual EN/PT)
 ├── fase-01-redes-fundamentos/            # CCNA 1 — ITN
 │   ├── labs/               # Numbered labs: mechanism + real-world bridge
@@ -53,8 +52,7 @@ devops-roadmap/
 ├── fase-03-redes-empresariais-seguranca/ # CCNA 3 — ENSA
 ├── fase-04-linux-seguranca/              # Linux + network security
 ├── fase-05-infra-operacoes/              # Virtualization, monitoring, backup
-├── fase-06-cloud-containers-iac/         # AWS, Docker, Kubernetes, Terraform
-└── fase-07-cicd-devsecops/               # Pipelines + DevSecOps
+└── fase-06-roteamento-avancado-automacao/ # OSPF, IPv6, BGP, Python automation
 ```
 
 Each phase follows the same layout:
@@ -74,13 +72,9 @@ Each phase follows the same layout:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Learning (roadmap ahead)
+### Next on the roadmap
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+OSPF · IPv6 · BGP basics · network automation with Python
 
 ---
 
@@ -99,8 +93,6 @@ Each phase follows the same layout:
 | CCNA 2: Switching, Routing & Wireless Essentials — Cisco Networking Academy (via EsCom) | ⏳ Next |
 | CCNA 3: Enterprise Networking, Security & Automation — Cisco Networking Academy (via EsCom) | ⏳ Planned |
 | CCNA 200-301 (v2.0) — Cisco Certified Network Associate | 🎯 Main target — exam window Apr–May 2027 (v2.0 blueprint) |
-| CKA — Certified Kubernetes Administrator | ⏳ Later |
-| AWS Solutions Architect Associate | ⏳ Later |
 
 ---
 

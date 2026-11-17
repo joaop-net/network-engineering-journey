@@ -17,7 +17,7 @@ Passei 8 anos no Exército Brasileiro. Ingressei em 2018, participei da Interven
 
 Em paralelo, curso Redes de Computadores na Estácio (EAD). Fiz estágios técnicos em Linux e Redes no Centro de Telemática de Área (5º CTA, Exército Brasileiro) e estou atualmente matriculado nos cursos de Fundamentos de Redes, Cabeamento de Dados e Logística de TI no Centro de Telemática de Área (1º CTA). Em 2025 tirei minha primeira certificação (Oracle OCI Foundations).
 
-Meu foco é **infraestrutura de redes**: como a rede é endereçada, comutada, roteada, protegida e mantida de pé. Switches, roteadores, cabeamento, plano de endereçamento, troubleshooting de conectividade — as camadas física e lógica em que todo o resto se apoia. Automação vem depois, e só em cima dessa base: não dá pra automatizar nem proteger uma infraestrutura que você não entende. Estou na Fase 01, percorrendo a trilha completa de redes da Cisco (CCNA 1–3 via EsCom).
+Meu foco é **infraestrutura de redes**: como a rede é endereçada, comutada, roteada, protegida e mantida de pé. Switches, roteadores, cabeamento, plano de endereçamento, troubleshooting de conectividade — as camadas física e lógica em que todo o resto se apoia. Essa é a carreira que estou construindo, não um degrau pra outra coisa: não dá pra operar nem proteger uma infraestrutura que você não entende. Estou me preparando pra **CCNA 200-301 v2.0** (prova entre abril e maio de 2027). Estou na Fase 01, percorrendo a trilha completa de redes da Cisco (CCNA 1–3 via EsCom).
 
 Toda fase aqui termina do mesmo jeito: algo construído, documentado e explicado — porque em infraestrutura, conserto sem documentação é conserto que ninguém consegue repetir.
 
@@ -25,7 +25,7 @@ Toda fase aqui termina do mesmo jeito: algo construído, documentado e explicado
 
 ## Progresso do Roadmap
 
-A rota vai **em profundidade por infraestrutura de redes e segurança** primeiro, depois operação de infraestrutura, e só então automação em cima.
+A rota vai **em profundidade por infraestrutura de redes e segurança** primeiro, depois operação de infraestrutura, com automação de redes por cima.
 
 | Fase | Tema | Foco | Status |
 |:----:|------|------|:------:|
@@ -34,15 +34,14 @@ A rota vai **em profundidade por infraestrutura de redes e segurança** primeiro
 | 03 | Redes Empresariais e Segurança | CCNA 3 (ENSA) — ACLs, NAT, WAN, VPN, segurança de redes, QoS, monitoramento, introdução a automação | ⏳ Planejado |
 | 04 | Linux + Segurança de Redes | Administração de servidores, hardening, firewall, SSH, logs | ⏳ Planejado |
 | 05 | Infraestrutura e Operações | Virtualização, monitoramento e alertas, backup e restore, investigação de incidentes | ⏳ Planejado |
-| 06 | Cloud, Containers e IaC | AWS, Docker, Kubernetes, Terraform | ⏳ Planejado |
-| 07 | CI/CD + DevSecOps | Pipelines, checagens de segurança automatizadas, deploy | ⏳ Planejado |
+| 06 | Roteamento Avançado e Automação | OSPF a fundo, IPv6, noções de BGP, automação de redes com Python | ⏳ Planejado |
 
 ---
 
 ## Estrutura do Repositório
 
 ```
-devops-roadmap/
+network-engineering-journey/
 ├── check-ins/                            # Logs diários de estudo (bilíngue EN/PT)
 ├── fase-01-redes-fundamentos/            # CCNA 1 — ITN
 │   ├── labs/               # Labs numerados: mecanismo + ponte com o mundo real
@@ -53,8 +52,7 @@ devops-roadmap/
 ├── fase-03-redes-empresariais-seguranca/ # CCNA 3 — ENSA
 ├── fase-04-linux-seguranca/              # Linux + segurança de redes
 ├── fase-05-infra-operacoes/              # Virtualização, monitoramento, backup
-├── fase-06-cloud-containers-iac/         # AWS, Docker, Kubernetes, Terraform
-└── fase-07-cicd-devsecops/               # Pipelines + DevSecOps
+└── fase-06-roteamento-avancado-automacao/ # OSPF, IPv6, BGP, automação com Python
 ```
 
 Cada fase segue a mesma organização:
@@ -74,13 +72,9 @@ Cada fase segue a mesma organização:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Aprendendo (rota adiante)
+### Próximos passos
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+OSPF · IPv6 · noções de BGP · automação de redes com Python
 
 ---
 
@@ -99,8 +93,6 @@ Cada fase segue a mesma organização:
 | CCNA 2: Switching, Routing & Wireless Essentials — Cisco Networking Academy (via EsCom) | ⏳ Próxima |
 | CCNA 3: Enterprise Networking, Security & Automation — Cisco Networking Academy (via EsCom) | ⏳ Planejado |
 | CCNA 200-301 — Cisco Certified Network Associate | ⏳ Depois da trilha da academia |
-| CKA — Certified Kubernetes Administrator | ⏳ Mais adiante |
-| AWS Solutions Architect Associate | ⏳ Mais adiante |
 
 ---
 
