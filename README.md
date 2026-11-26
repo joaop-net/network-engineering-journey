@@ -100,6 +100,7 @@ OSPF · IPv6 · BGP basics · network automation with Python
 
 - Build real depth in **network infrastructure** — addressing, switching, routing, connectivity, security
 - Complete the full Cisco academy track (**CCNA 1 → 2 → 3**) via the Army Communications School (EsCom)
+- 2027 certification path (draft): **JNCIA-Junos → CCNA v2.0**, covering both Juniper and Cisco
 - Turn every phase into something hands-on: topologies, diagrams, and documented configurations
 - Get sharper at **network troubleshooting** — reading the symptom before touching the config
 - Practice **explaining technical work in English**, since documentation and communication are half the job
